@@ -56,5 +56,4 @@ Two small LLM chat apps on Llama 3.1 via Groq: a minimal chatbot and a version t
 ### 📫 Reach me
 Open to **GenAI / AI Engineer** roles. Happy to walk through how SAIGE handles safe agent writes.
 
-<!-- Add your links: -->
-<!-- [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) · [Email](mailto:you@example.com) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-devidbanoth-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devidbanoth)
