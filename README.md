@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm David Banoth 👋</h1>
-<p align="center"><b>GenAI Engineer @ Oatmeal AI</b> · Building production agentic AI for agriculture<br/>Fremont, CA · Open to GenAI Engineer roles (Bay Area / Remote)</p>
+<h1 align="center">Hi, I'm Devid Banoth 👋</h1>
+<p align="center"><b>Entry-Level AI Engineer @ Oatmeal AI</b> · Building production agentic AI for agriculture<br/>Fremont, CA · Open to GenAI Engineer roles (Bay Area / Remote)</p>
 
 ---
 
